@@ -1,0 +1,42 @@
+((("color" .
+   [0 0 0 1 0])
+  ("set-face-font" .
+   [0 0 0 0 0 0 0 1 0 0 0 0 0])
+  ("set-default-font" .
+   [0 0 0 0 0 1 1 0 0 0 0 0 0 1 0 0])
+  ("yas/prompt-functions" .
+   [0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("setq" .
+   [6 0 0 0])
+  ("require" .
+   [0 0 0 0 0 2 1])
+  ("load-path" .
+   [0 0 0 0 0 0 0 0 1])
+  ("add-to-list" .
+   [0 0 0 0 0 0 1 0 0 0 0])
+  ("/bin/" .
+   [0 1 0 0 0])
+  ("/bin/[" .
+   [0 0 1 0 0 0])
+  ("display-graphic-p" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("progn" .
+   [1 0 0 0 0])
+  ("tool-bar-mode" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("scroll-bar-mode" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("color-theme" .
+   [0 0 0 0 1 0 0 0 0 0 0])
+  ("color-theme-initialize" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0])
+  ("color-theme-select" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 2 0 0 0])
+  ("setq-default" .
+   [0 0 0 0 1 0 0 0 0 0 0 0])
+  ("set-fontset-font" .
+   [0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0])
+  ("print" .
+   [2 0 0 0 0])
+  ("bin" .
+   [1 0 0])))
